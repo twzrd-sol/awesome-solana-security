@@ -94,8 +94,9 @@ We highly recommend using [Anchor](https://www.anchor-lang.com), a framework for
 - [Solana Stack Exchange](https://solana.stackexchange.com/) 
 
 ### Tools
-- [Solana playground](https://beta.solpg.io/) 
+- [Solana playground](https://beta.solpg.io/)
 - [Rust playground](https://play.rust-lang.org/)
+- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - MCP server for agent trust scoring on Solana. Provides preflight trust assessment and signed V5 x402 receipt verification for AI agent interactions.
 - [Sec3's IDL Guesser](https://github.com/sec3-service/IDLGuesser): Reverse engineers IDL from onchain programs for easier integration
 - [Trail of Bits's Anchor X-ray](https://github.com/crytic/anchorx-ray): Visualizes accounts in Anchor programs
 - [John Saigle's Anchor version detector](https://github.com/johnsaigle/anchor-version-detector): Helps figure out which versions of Rust, Solana, and Anchor are compatible with a given Anchor project.
